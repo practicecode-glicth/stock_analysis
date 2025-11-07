@@ -1,5 +1,8 @@
 # 📊 Adani Enterprises Limited – Stock Data Analysis Dashboard
 
+<img width="1396" height="775" alt="Screenshot 2025-11-07 110344" src="https://github.com/user-attachments/assets/ac3a339b-8d8e-458d-bd83-0e387b2323d9" />
+
+
 ## 🧾 Overview
 This Power BI dashboard provides a detailed analysis of **Adani Enterprises Limited's stock performance**, focusing on key trading metrics such as 52-week highs and lows, opening and closing prices, and trading volumes. The report enables users to explore data across various time frames and derive actionable insights into market trends.
 
